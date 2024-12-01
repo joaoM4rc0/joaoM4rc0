@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm studying to become a full-stack dev. In this github I will make my projects available to show my evolution. I already have some experience with Python and I'm starting to study Java</p>
+<p align="left">I'm studying to become a backend dev. In this github I will make my projects available to show my evolution. I already have some experience with Python and I'm starting to study Java</p>
 
 ###
 
